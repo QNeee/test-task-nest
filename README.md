@@ -30,6 +30,7 @@
 
 ```bash
 $ npm install
+$ create file .env and fill like .env-example
 ```
 
 ## Running the app
